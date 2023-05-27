@@ -2,11 +2,15 @@
 
 This repository contains implementations of the classic Brick Breaker game in six different environments using different programming languages. Each implementation offers a unique approach to the game, providing insights into the diverse programming paradigms and tools available.
 
-## 1. Mkeykernel Environment (C)
+## 1. [Mkeykernel Environment (C)](https://github.com/arjun024/mkeykernel#mkeykernel)
+
 The first implementation of the Brick Breaker game is developed in the Mkeykernel environment using the C programming language. This version showcases the game's functionality and features, demonstrating the capabilities of C for game development.
 
-## 2. Basekernel Environment (C)
+
+## 2. [Basekernel Environment (C)](https://github.com/dthain/basekernel)
+
 The second implementation of the game is built in the Basekernel environment, also using the C programming language. By utilizing the Basekernel environment, this version explores different system interactions and highlights the power of C in low-level programming.
+
 
 ## 3. C++ Mingw Environment (Console)
 In the third implementation, the Brick Breaker game is developed in the C++ programming language using the Mingw environment. This version demonstrates how C++ can be used to create a console-based game, showcasing the versatility and object-oriented features of the language.
